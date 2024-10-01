@@ -21,16 +21,16 @@ This repo focus on progress on Time Series Foundation Model.
 
 ### 2024
 
-- **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts.** *Xiaoming Shi(princeton University), Shiyu Wang, Yuqi Nie, Dianqi Li, Zhou Ye, Qingsong Wen, and Ming Jin.* [link](https://arxiv.org/pdf/2409.16040) [code](https://github.com/Time-MoE/Time-MoE) :star:123 :link:0
-- **Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series.** *Ekambaram, Vijay(IBM Granite), Arindam Jati, Nam H. Nguyen, Pankaj Dayama, Chandra Reddy, Wesley M. Gifford, and Jayant Kalagnanam.* [link](https://arxiv.org/abs/2401.03955) [code](https://github.com/ibm-granite/granite-tsfm) :star:348 :link:7
-- **Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting.** *Rasul, Kashif, Arjun Ashok, Andrew Robert Williams, Hena Ghonia, Rishika Bhagwatkar, Arian Khorasani, Mohammad Javad Darvishi Bayazi et al.* [link](https://time-series-foundation-models.github.io/lag-llama.pdf) [code](https://github.com/time-series-foundation-models/lag-llama/) :star:1.2k :link:15
-- **Unified Training of Universal Time Series Forecasting Transformers.** *Woo, Gerald(Salesforce AI Research), Chenghao Liu, Akshat Kumar, Caiming Xiong, Silvio Savarese, and Doyen Sahoo.* [link](https://arxiv.org/pdf/2402.02592) [code](https://github.com/SalesforceAIResearch/uni2ts) :star:788 :link:31
-- **Chronos: Learning the Language of Time Series.** *Das, Abhimanyu(Google Research), Weihao Kong, Rajat Sen, and Yichen Zhou.* [link](https://arxiv.org/abs/2403.07815) [code](https://github.com/amazon-science/chronos-forecasting) :star:2.4k :link:46
+- **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts.** *Xiaoming Shi(princeton University), Shiyu Wang, Yuqi Nie, Dianqi Li, Zhou Ye, Qingsong Wen, and Ming Jin.* [link](https://arxiv.org/pdf/2409.16040) :link:0 [code](https://github.com/Time-MoE/Time-MoE) :star:123 
+- **Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series.** *Ekambaram, Vijay(IBM Granite), Arindam Jati, Nam H. Nguyen, Pankaj Dayama, Chandra Reddy, Wesley M. Gifford, and Jayant Kalagnanam.* [link](https://arxiv.org/abs/2401.03955) :link:7 [code](https://github.com/ibm-granite/granite-tsfm) :star:348 
+- **Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting.** *Rasul, Kashif, Arjun Ashok, Andrew Robert Williams, Hena Ghonia, Rishika Bhagwatkar, Arian Khorasani, Mohammad Javad Darvishi Bayazi et al.* [link](https://time-series-foundation-models.github.io/lag-llama.pdf) :link:15 [code](https://github.com/time-series-foundation-models/lag-llama/) :star:1.2k 
+- **Unified Training of Universal Time Series Forecasting Transformers.** *Woo, Gerald(Salesforce AI Research), Chenghao Liu, Akshat Kumar, Caiming Xiong, Silvio Savarese, and Doyen Sahoo.* [link](https://arxiv.org/pdf/2402.02592) :link:31 [code](https://github.com/SalesforceAIResearch/uni2ts) :star:788 
+- **Chronos: Learning the Language of Time Series.** *Das, Abhimanyu(Google Research), Weihao Kong, Rajat Sen, and Yichen Zhou.* [link](https://arxiv.org/abs/2403.07815) :link:46 [code](https://github.com/amazon-science/chronos-forecasting) :star:2.4k 
 
 ### 2023
 
-- **Large Language Models Are Zero Shot Time Series Forecasters.** *Nate Gruver(NYU), Marc Finzi(CMU), Shikai Qiu(NYU), and Andrew G. Wilson(NYU).* [link](https://arxiv.org/abs/2310.07820) [code](https://github.com/ngruver/llmtime) :star:663 :link:174
-- **A decoder-only foundation model for time-series forecasting.** *Das, Abhimanyu(Google Research), Weihao Kong, Rajat Sen, and Yichen Zhou.* [link](https://arxiv.org/pdf/2310.10688) [code](https://github.com/google-research/timesfm) :star:3.6k :link:55
+- **Large Language Models Are Zero Shot Time Series Forecasters.** *Nate Gruver(NYU), Marc Finzi(CMU), Shikai Qiu(NYU), and Andrew G. Wilson(NYU).* [link](https://arxiv.org/abs/2310.07820) :link:174 [code](https://github.com/ngruver/llmtime) :star:663 
+- **A decoder-only foundation model for time-series forecasting.** *Das, Abhimanyu(Google Research), Weihao Kong, Rajat Sen, and Yichen Zhou.* [link](https://arxiv.org/pdf/2310.10688) :link:55 [code](https://github.com/google-research/timesfm) :star:3.6k 
 
 
 ## Dataset
