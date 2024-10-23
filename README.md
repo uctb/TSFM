@@ -16,11 +16,14 @@ This repo focus on progress on Time Series Foundation Model.
 
 - **A Survey of Deep Learning and Foundation Models for Time Series Forecasting.** *Miller(University of Georgia), John A., Mohammed Aldosari, Farah Saeed, Nasid Habib Barna, Subas Rana, I. Budak Arpinar, and Ninghao Liu.* [link](https://arxiv.org/abs/2401.13912) :link:18
 - **Foundation Models for Time Series Analysis: A Tutorial and Survey.** *Yuxuan Liang(The Hong Kong University of Science and Technology(Guangzhou), Haomin Wen(Beijing Jiaotong University))* [link](https://arxiv.org/pdf/2403.14735) :link:26
+- **FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting.** *Zhe Li, Xiangfei Qiu, Peng Chen, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S. Jensen, Bin Yang* [link](https://arxiv.org/abs/2410.11802) [code]
+- **GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation.** *Taha Aksu, Gerald Woo, Juncheng Liu, Xu Liu, Chenghao Liu, Silvio Savarese, Caiming Xiong, Doyen Sahoo.* [link](https://arxiv.org/abs/2410.10393)
 
 ## Work
 
 ### 2024
 
+- **FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model.** *Haoye Chai(Tsinghua University), Shiyuan Zhang, Xiaoqian Qi, Yong Li.* [link](https://arxiv.org/pdf/2410.15322)
 - **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts.** *Xiaoming Shi(princeton University), Shiyu Wang, Yuqi Nie, Dianqi Li, Zhou Ye, Qingsong Wen, and Ming Jin.* [link](https://arxiv.org/pdf/2409.16040) :link:0 [code](https://github.com/Time-MoE/Time-MoE) ![](https://img.shields.io/github/stars/Time-MoE/Time-MoE?color=yellow)
 - **Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series.** *Ekambaram, Vijay(IBM Granite), Arindam Jati, Nam H. Nguyen, Pankaj Dayama, Chandra Reddy, Wesley M. Gifford, and Jayant Kalagnanam.* [link](https://arxiv.org/abs/2401.03955) :link:7 [code](https://github.com/ibm-granite/granite-tsfm) ![](https://img.shields.io/github/stars/ibm-granite/granite-tsfm?color=yellow)
 - **Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting.** *Rasul, Kashif, Arjun Ashok, Andrew Robert Williams, Hena Ghonia, Rishika Bhagwatkar, Arian Khorasani, Mohammad Javad Darvishi Bayazi et al.* [link](https://time-series-foundation-models.github.io/lag-llama.pdf) :link:15 [code](https://github.com/time-series-foundation-models/lag-llama/) ![](https://img.shields.io/github/stars/time-series-foundation-models/lag-llama?color=yellow)
