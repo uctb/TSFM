@@ -23,6 +23,9 @@ This repo focus on progress on Time Series Foundation Model.
 
 ### 2024
 
+- **UniMTS: Unified Pre-training for Motion Time Series.** *Xiyuan Zhang, Diyan Teng, Ranak Roy Chowdhury, Shuheng Li, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang.* [link](https://arxiv.org/abs/2410.19818) :link:14 [code](https://github.com/xiyuanzh/UniMTS) ![](https://img.shields.io/github/stars/xiyuanzh/UniMTS?color=yellow)
+- **UNITS: A Unified Multi-Task Time Series Model.** *Shanghua Gao, Teddy Koker, Owen Queen, Thomas Hartvigsen, Theodoros Tsiligkaridis, Marinka Zitnik.* [link](https://arxiv.org/pdf/2403.00131) :link:14 [code](https://github.com/mims-harvard/UniTS) ![](https://img.shields.io/github/stars/mims-harvard/UniTS?color=yellow)
+- **TIME-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting.** *Qingxiang Liu, Xu Liu, Chenghao Liu, Qingsong Wen, Yuxuan Liang.* [link](https://arxiv.org/pdf/2405.14252) :link:1
 - **S^2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting.** *Zijie Pan, Yushan Jiang, Sahil Garg, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song.* [link](https://openreview.net/pdf?id=qwQVV5R8Y7) :link:10 [code](https://github.com/panzijie825/S2IP-LLM) ![](https://img.shields.io/github/stars/panzijie825/S2IP-LLM?color=yellow)
 - **ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning** *Yihang Wang, Yuying Qiu, Peng Chen, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo.* [link](https://arxiv.org/pdf/2405.17478) :link:0
 - **In-Context Fine-Tuning for Time-Series Foundation Models** *Abhimanyu Das(Google Research), Matthew Faw, Rajat Sen, Yichen Zhou.* [link](https://arxiv.org/pdf/2410.10469) :link:0
