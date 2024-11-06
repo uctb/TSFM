@@ -23,6 +23,10 @@ This repo focus on progress on Time Series Foundation Model.
 
 ### 2024
 
+- **S^2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting.** *Zijie Pan, Yushan Jiang, Sahil Garg, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song.* [link](https://openreview.net/pdf?id=qwQVV5R8Y7) :link:10 [code](https://github.com/panzijie825/S2IP-LLM) ![](https://img.shields.io/github/stars/panzijie825/S2IP-LLM?color=yellow)
+- **ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning** *Yihang Wang, Yuying Qiu, Peng Chen, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo.* [link](https://arxiv.org/pdf/2405.17478) :link:0
+- **In-Context Fine-Tuning for Time-Series Foundation Models** *Abhimanyu Das(Google Research), Matthew Faw, Rajat Sen, Yichen Zhou.* [link](https://arxiv.org/pdf/2410.10469) :link:0
+- **Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts** *Xu Liu(Saleforce AI Research, National University of Singapore), Juncheng Liu, Gerald Woo, Taha Aksu, Yuxuan Liang, Roger Zimmermann, Chenghao Liu, Silvio Savarese, Caiming Xiong, Doyen Sahoo.* [link](https://arxiv.org/pdf/2410.10469) :link:0 [code](https://github.com/SalesforceAIResearch/uni2ts/tree/main/project/moirai-moe-1) ![](https://img.shields.io/github/stars/SalesforceAIResearch/uni2ts)
 - **FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model.** *Haoye Chai(Tsinghua University), Shiyuan Zhang, Xiaoqian Qi, Yong Li.* [link](https://arxiv.org/pdf/2410.15322)
 - **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts.** *Xiaoming Shi(princeton University), Shiyu Wang, Yuqi Nie, Dianqi Li, Zhou Ye, Qingsong Wen, and Ming Jin.* [link](https://arxiv.org/pdf/2409.16040) :link:0 [code](https://github.com/Time-MoE/Time-MoE) ![](https://img.shields.io/github/stars/Time-MoE/Time-MoE?color=yellow)
 - **Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series.** *Ekambaram, Vijay(IBM Granite), Arindam Jati, Nam H. Nguyen, Pankaj Dayama, Chandra Reddy, Wesley M. Gifford, and Jayant Kalagnanam.* [link](https://arxiv.org/abs/2401.03955) :link:7 [code](https://github.com/ibm-granite/granite-tsfm) ![](https://img.shields.io/github/stars/ibm-granite/granite-tsfm?color=yellow)
@@ -36,5 +40,6 @@ This repo focus on progress on Time Series Foundation Model.
 
 - **Large Language Models Are Zero Shot Time Series Forecasters.** *Nate Gruver(NYU), Marc Finzi(CMU), Shikai Qiu(NYU), and Andrew G. Wilson(NYU).* [link](https://arxiv.org/abs/2310.07820) :link:174 [code](https://github.com/ngruver/llmtime) ![](https://img.shields.io/github/stars/ngruver/llmtime?color=yellow)
 - **A decoder-only foundation model for time-series forecasting.** *Das, Abhimanyu(Google Research), Weihao Kong, Rajat Sen, and Yichen Zhou.* [link](https://arxiv.org/pdf/2310.10688) :link:55 [code](https://github.com/google-research/timesfm) ![](https://img.shields.io/github/stars/google-research/timesfm?color=yellow)
+- **One Fits All: Power General Time Series Analysis by Pretrained LM.** *Tian Zhou, Peisong Niu, xue wang, Liang Sun, Rong Jin.* [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86c17de05579cde52025f9984e6e2ebb-Paper-Conference.pdf) :link:220 [code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) ![](https://img.shields.io/github/stars/DAMO-DI-ML/NeurIPS2023-One-Fits-All?color=yellow)
 
 ## Dataset
